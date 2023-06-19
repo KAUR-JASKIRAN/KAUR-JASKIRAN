@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KAUR-JASKIRAN
+- 👋 Hi, I’m Jaskiran
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning AI and Data Science
 - 📫 How to reach me : Twitter https://twitter.com/Jaskira24372138 
